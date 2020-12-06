@@ -1,1 +1,1 @@
-web: gunicorn fligthscheduler.wsgi
+web: gunicorn carRental.wsgi

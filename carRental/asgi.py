@@ -1,5 +1,5 @@
 """
-ASGI config for fligthscheduler project.
+ASGI config for carRental project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
