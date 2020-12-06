@@ -29,7 +29,7 @@ SECRET_KEY = 'mreyavg6&q2i&26e=t))7p@0-3yj2^i2=^tzr(_iwe0-qca3@h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['flight-backend-application.herokuapp.com']
+ALLOWED_HOSTS = ['car-rental-sull-stack-app.herokuapp.com']
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
